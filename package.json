@@ -1,0 +1,16 @@
+{
+  "name": "treinning",
+  "version": "1.0.0",
+  "description": "treining js",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start":"nodemon ./index.js"
+  },
+  "author": "Nahue.g",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15"
+  }
+}
